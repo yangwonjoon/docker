@@ -1,0 +1,48 @@
+---
+name: docker study template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+---
+name: 스터디 템플릿 양식
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: sey2
+
+---
+
+## 📢 스터디 공유 이슈
+
+> **스터디 날짜:** 2025-MM-DD  
+> **작성자:** @sey2
+> **스터디 주제:** Docker
+> **범위:**
+
+---
+
+### 🚀 1. 어려운 점 OR 공유할 점  
+스터디를 진행하며 **어려웠던 점** 또는 **공유하고 싶은 점**을 작성해주세요.  
+(예: 특정 개념이 헷갈렸다, 실무 적용 사례를 찾았다 등)  
+
+✅ **[작성 예시]**  
+- 컨테이너 네트워크 브릿지와 호스트 모드의 차이점을 이해하는 것이 어려웠음
+- Multi-Stage Build 최적화 방법 공유 
+
+---
+
+### 🔍 2. 문제 풀이 공유 (1개)  
+스터디에서 함께 논의할 문제 풀이를 작성해주세요.  
+가능하면 **추론 과정**도 함께 공유하면 좋습니다!  
+
+#### **📌 문제 설명**  
+> 문제를 간단히 설명해주세요.   
+
+#### **📌 코드 & 풀이 과정**  
+```bash
+# 예제 코드
+docker ps -a
